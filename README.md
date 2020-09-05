@@ -1,6 +1,6 @@
 # cra-template-pixijs-typescript
 
-This is not official pixi.js TypeScript template using [Create React App](https://github.com/facebook/create-react-app).
+This is the pixi.js and TypeScript template using [Create React App](https://github.com/facebook/create-react-app).
 
 To use this template, add `--template pixijs-typescript` when creating a new app.
 

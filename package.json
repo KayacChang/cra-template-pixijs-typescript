@@ -1,6 +1,6 @@
 {
   "name": "cra-template-pixijs-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -8,11 +8,18 @@
     "pixi.js",
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KayacChang/cra-template-pixijs-typescript.git"
+  },
   "main": "template.json",
-  "description": "The base pixi.js template for Create React App with Typescript.",
+  "description": "The base template for Create React App with pixi.js and Typescript.",
   "license": "MIT",
   "engines": {
     "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/KayacChang/cra-template-pixijs-typescript.git"
   },
   "files": [
     "template",
