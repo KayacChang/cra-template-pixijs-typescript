@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-pixijs",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "pixi.js",
+    "typescript"
+  ],
+  "main": "template.json",
+  "description": "The base pixi.js template for Create React App with Typescript.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
